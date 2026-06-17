@@ -7,9 +7,9 @@ Where the screenshot showed a generic pattern instead of a direct LeetCode probl
 
 | Category | LeetCode # | Question | Remark |
 |---|---:|---|---|
-| Arrays | 1 | Two Sum | ☐ |
-| Arrays | 121 | Best Time to Buy and Sell Stock | ☐ |
-| Arrays | 217 | Contains Duplicate | ☐ |
+| Arrays | 1 | Two Sum | tick |
+| Arrays | 121 | Best Time to Buy and Sell Stock |tick |
+| Arrays | 217 | Contains Duplicate | tick |
 | Arrays | 238 | Product of Array Except Self | ☐ |
 | Arrays | 53 | Maximum Subarray | ☐ |
 | Arrays | 152 | Maximum Product Subarray | ☐ |

@@ -7,19 +7,19 @@ Where the screenshot showed a generic pattern instead of a direct LeetCode probl
 
 | Category | LeetCode # | Question | Remark |
 |---|---:|---|---|
-| Arrays | 1 | Two Sum | tick |
-| Arrays | 121 | Best Time to Buy and Sell Stock |tick |
-| Arrays | 217 | Contains Duplicate | tick |
-| Arrays | 238 | Product of Array Except Self | ☐ |
+| Arrays | 1 | Two Sum | ✓ |
+| Arrays | 121 | Best Time to Buy and Sell Stock |✓ |
+| Arrays | 217 | Contains Duplicate | ✓ |
+| Arrays | 238 | Product of Array Except Self | ✓ |
 | Arrays | 53 | Maximum Subarray | ☐ |
 | Arrays | 152 | Maximum Product Subarray | ☐ |
-| Arrays | 283 | Move Zeroes | ☐ |
-| Arrays | 26 | Remove Duplicates from Sorted Array | ☐ |
-| Arrays | 189 | Rotate Array | ☐ |
+| Arrays | 283 | Move Zeroes |✓ |
+| Arrays | 26 | Remove Duplicates from Sorted Array | ✓ |
+| Arrays | 189 | Rotate Array | ✓|
 | Arrays | 153 | Find Minimum in Rotated Sorted Array | ☐ |
 | Arrays | 33 | Search in Rotated Sorted Array | ☐ |
-| Arrays | 169 | Majority Element | ☐ |
-| Arrays | 268 | Missing Number | ☐ |
+| Arrays | 169 | Majority Element | ✓ |
+| Arrays | 268 | Missing Number | ✓ |
 | Arrays | 448 | Find All Numbers Disappeared in an Array | ☐ |
 | Sliding Window | N/A | Maximum Sum Subarray of Size K | ☐ |
 | Sliding Window | 3 | Longest Substring Without Repeating Characters | ☐ |

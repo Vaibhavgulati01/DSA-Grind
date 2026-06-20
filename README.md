@@ -20,7 +20,7 @@ Where the screenshot showed a generic pattern instead of a direct LeetCode probl
 | Arrays | 33 | Search in Rotated Sorted Array | ☐ |
 | Arrays | 169 | Majority Element | ✓ |
 | Arrays | 268 | Missing Number | ✓ |
-| Arrays | 448 | Find All Numbers Disappeared in an Array | ☐ |
+| Arrays | 448 | Find All Numbers Disappeared in an Array |  ✓|
 | Sliding Window | N/A | Maximum Sum Subarray of Size K | ☐ |
 | Sliding Window | 3 | Longest Substring Without Repeating Characters | ✓ |
 | Sliding Window | 424 | Longest Repeating Character Replacement | ☐ |

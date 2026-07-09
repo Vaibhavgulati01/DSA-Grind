@@ -8,7 +8,7 @@
 | S.No. | LeetCode # | Question Name | Status |
 |------:|:-----------:|---------------|:------:|
 | 1 | 167 | Two Sum (sorted array) | ✅ |
-| 2 | — | Three Sum | ❌ |
+| 2 | 15 | Three Sum | ✅ |
 | 3 | — | Four Sum | ❌ |
 | 4 | — | Container With Most Water | ❌ |
 | 5 | — | Trapping Rain Water | ❌ |

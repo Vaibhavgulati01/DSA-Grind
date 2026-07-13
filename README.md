@@ -10,8 +10,8 @@
 | 1 | 167 | Two Sum (sorted array) | ✅ |
 | 2 | 15 | Three Sum | ✅ |
 | 3 | 18| Four Sum | ✅ |
-| 4 | — | Container With Most Water | ✅ |
-| 5 | — | Trapping Rain Water | ❌ |
+| 4 | 11| Container With Most Water | ✅ |
+| 5 | 42| Trapping Rain Water | ✅ |
 | 6 | — | Remove Duplicates from Sorted Array | ❌ |
 | 7 | — | Move Zeroes to End | ❌ |
 | 8 | — | Sort Colors (Dutch National Flag) | ❌ |

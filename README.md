@@ -15,7 +15,7 @@
 | 6 | 26| Remove Duplicates from Sorted Array | ✅ |
 | 7 | 283 | Move Zeroes to End | ✅ |
 | 8 | — | Sort Colors (Dutch National Flag) | ✅ |
-| 9 | 209| Minimum Size Subarray Sum | ❌ |
+| 9 | 209| Minimum Size Subarray Sum | ✅ |
 | 10 | — | Squares of a Sorted Array | ❌ |
 ## Sliding Window
 

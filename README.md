@@ -16,7 +16,7 @@
 | 7 | 283 | Move Zeroes to End | ✅ |
 | 8 | — | Sort Colors (Dutch National Flag) | ✅ |
 | 9 | 209| Minimum Size Subarray Sum | ✅ |
-| 10 | — | Squares of a Sorted Array | ❌ |
+| 10 | 977| Squares of a Sorted Array | ✅|
 ## Sliding Window
 
 | S.No. | LeetCode # | Question Name | Status |

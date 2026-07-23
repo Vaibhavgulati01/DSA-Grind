@@ -14,7 +14,7 @@
 | 5 | 42| Trapping Rain Water | ✅ |
 | 6 | 26| Remove Duplicates from Sorted Array | ✅ |
 | 7 | 283 | Move Zeroes to End | ✅ |
-| 8 | — | Sort Colors (Dutch National Flag) | ❌ |
+| 8 | — | Sort Colors (Dutch National Flag) | ✅ |
 | 9 | — | Minimum Size Subarray Sum | ❌ |
 | 10 | — | Squares of a Sorted Array | ❌ |
 ## Sliding Window

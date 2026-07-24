@@ -21,7 +21,7 @@
 
 | S.No. | LeetCode # | Question Name | Status |
 |------:|:-----------:|---------------|:------:|
-| 11 | — | Longest Substring Without Repeating Characters | ❌ |
+| 11 | 3 | Longest Substring Without Repeating Characters |  ✅ |
 | 12 | — | Maximum Sum Subarray of Size K | ❌ |
 | 13 | — | Fruit Into Baskets (at most 2 distinct) | ❌ |
 | 14 | — | Minimum Window Substring | ❌ |

@@ -90,7 +90,7 @@
 | S.No. | LeetCode # | Question Name | Status |
 |------:|:-----------:|---------------|:------:|
 | 51 | — | ⭐ Valid Anagram | ✅|
-| 52 | — | ⭐ Group Anagrams | ❌ |
+| 52 | — | ⭐ Group Anagrams | ✅ |
 | 53 | — | Longest Common Prefix | ❌ |
 | 54 | — | Reverse Words in a String | ❌ |
 | 55 | — | ⭐ String to Integer (atoi) | ❌ |

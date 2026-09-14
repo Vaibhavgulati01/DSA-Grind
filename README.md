@@ -28,7 +28,7 @@
 | 11 | 3 | ⭐ Longest Substring Without Repeating Characters |  ✅ |
 | 12 | — | Maximum Sum Subarray of Size K | ❌ |
 | 13 | — | Fruit Into Baskets (at most 2 distinct) | ❌ |
-| 14 | — | ⭐ Minimum Window Substring | ❌ |
+| 14 | — | ⭐ Minimum Window Substring | ✅ |
 | 15 | — | Longest Subarray with Ones after Replacement | ❌ |
 | 16 | — | ⭐ Permutation in String | ❌ |
 | 17 | — | Find All Anagrams in a String | ❌ |
